@@ -1,5 +1,5 @@
 # ST185
-#Supplementary tables to "Sequencing of 185 Streptococcus thermophilus and identification of fermentation biomarkers"
+# Supplementary tables to "Sequencing of 185 Streptococcus thermophilus and identification of fermentation biomarkers"
 
 Table S1. The sampling site, fermented dairy product, sequencing depth and preliminary fermentation experiment results for 185 isolates.
 
